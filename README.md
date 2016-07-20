@@ -60,7 +60,7 @@
 bootstrap的文档中介绍了页面的CSS属性以及各组件的基准样式，在设计时尽量以此为标准。
 
 - [antdesign](http://ant.design/)
-- 
+
 当有一些特殊的界面或交互样式bootstrap里没有提及的，可以参照antdesign.
 
 - [<font color="red">中台管理后台web设计规范</font>](https://www.zybuluo.com/rabbielulu/note/441897)
@@ -82,7 +82,7 @@ bootstrap的文档中介绍了页面的CSS属性以及各组件的基准样式�
 
  >制定流程的过程中，可以使用线框组件，也可以直接截图参考案例，快速的组合出页面流程，从而确定页面需求。
 
- [墨刀](https://modao.cc) <font color="red"><i class="icon-star"></i> (推荐)</font> 
+[墨刀](https://modao.cc) <font color="red"><i class="icon-star"></i> (推荐)</font> 
  
 操作方便快速，适合跳转逻辑比较简单的交互，基本上可以满足移动端的交互和效果预览。
 
@@ -153,7 +153,7 @@ ios需要切@2x和@3x两种的图
 sketch和phtoshop cc 2015都有了快速切图功能，可以直接切图。
 
 - 切图插件[cutterman](http://www.cutterman.cn/cutterman) <font color="red"><i class="icon-star"></i> (推荐)</font> 
-- 
+
  windows下的Photoshop切图插件，快速一键导出安卓和ios所需尺寸的资源图片。
 
 - web图标可以使用icon font文件，将图形以类似字体的形式嵌入到页面中.
