@@ -16,13 +16,13 @@
 
 
 
-- 官方设计规范英文版
+-官方设计规范英文版
 - 
 [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) 
 
 [Google Material Design](https://material.google.com/)
 
-- 官方设计规范中文翻译版
+-官方设计规范中文翻译版
 - 
 [ios9 人机交互指南](http://wiki.jikexueyuan.com/project/ios-9-human-computer-interface-guidelines/)
 
