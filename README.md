@@ -15,26 +15,26 @@
 > 移动端我们分为原生app设计和移动网页设计，原生app遵循苹果和谷歌的官方文档，在设计时尽可能的使用手机系统自带的组件，保证视觉和操作的统一性。
 
 
-
--官方设计规范英文版
-- 
+- 官方设计规范英文版
+ 
 [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) 
 
 [Google Material Design](https://material.google.com/)
 
--官方设计规范中文翻译版
-- 
+
+- 官方设计规范中文翻译版
+ 
 [ios9 人机交互指南](http://wiki.jikexueyuan.com/project/ios-9-human-computer-interface-guidelines/)
 
 [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
  
 - 中台移动端设计规范
-- 
+
 根据对官方文档的分析以及我们的产品的页面需求，我们总结出了目前中台系统下移动端的设计规范。该规范主要以IOS的设计为标准，同时根据行业主流APP中的界面交互方式，归纳出通用样式的app所需的设计元素以及典型页面的设计规范。
   
 
 - 移动网页规范
-- 
+
 对于手机上的移动网页，即不是原生开发的页面，我们以微信团队出品的weUI作为规范参考。
 
  微信weUI
@@ -56,7 +56,7 @@
 >pc端的网页设计，我们基于bootstrap框架设计响应式的网页，以适配不同尺寸的屏幕。设计时尽量使用bootstrap的默认参数和组件，保证视觉和操作的统一性。
 
 - [bootstrap3 中文文档](http://v3.bootcss.com/)
-- 
+
 bootstrap的文档中介绍了页面的CSS属性以及各组件的基准样式，在设计时尽量以此为标准。
 
 - [antdesign](http://ant.design/)
@@ -118,7 +118,7 @@ win10系统使用右键“资源管理器”打开，选择需要的软件安装
 
 - photoshop内置Device preview
 - sketch内置mirror
-- 
+
 以上两款内置功能都需要下载搭配的app，但是adobe preview在中国区苹果商店是搜不到的，只能切换到美区；而sketch到mirror需要30元付费下载。
 
 - [PS play](https://isux.tencent.com/app/psplay) <font color="red"><i class="icon-star"></i> (推荐)</font> 
