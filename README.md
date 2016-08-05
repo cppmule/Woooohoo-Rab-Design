@@ -1,12 +1,6 @@
 # UI/UX 设计规范与资源整理
 
 
-目录
-
-[toc]
-
-
-
 
 ## 1. 设计规范
 
@@ -28,10 +22,6 @@
 
 [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
  
-- 中台移动端设计规范
-
-根据对官方文档的分析以及我们的产品的页面需求，我们总结出了目前中台系统下移动端的设计规范。该规范主要以IOS的设计为标准，同时根据行业主流APP中的界面交互方式，归纳出通用样式的app所需的设计元素以及典型页面的设计规范。
-  
 
 - 移动网页规范
 
@@ -62,14 +52,6 @@ bootstrap的文档中介绍了页面的CSS属性以及各组件的基准样式�
 - [antdesign](http://ant.design/)
 
 当有一些特殊的界面或交互样式bootstrap里没有提及的，可以参照antdesign.
-
-- [<font color="red">中台管理后台web设计规范</font>](https://www.zybuluo.com/rabbielulu/note/441897)
-布局规范和基本组件都按照bootstrap的默认参数，特殊页面需求参考了antdesign以及行业其它管理后台的样式。
-
-
- 
-
- 
 
 
 ----------
@@ -102,15 +84,6 @@ bootstrap的文档中介绍了页面的CSS属性以及各组件的基准样式�
 
 >Photoshop推荐使用cc2014 以上的版本，因为新加入的“画板”功能，以及CC以上版本对于矢量图形的编辑功能加强，都利于了移动页面的开发。（请抛弃CC以下的版本）
 
- **软件下载：**
- 
- 已在互动部网络硬盘里分享了最新版Adobe Family“全家桶”，文件为iso格式。
- 
-win7系统安装虚拟光驱软件deamon tools后打开；
-
-win10系统使用右键“资源管理器”打开，选择需要的软件安装。
-
-  Mac软件下载  链接: http://pan.baidu.com/s/1pLeqptx 密码: 1m5i
 
 **跨屏预览:**
 
